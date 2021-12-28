@@ -1,0 +1,10 @@
+[Unit]
+Description=AntimicroX guardian service
+
+[Service]
+ExecStart=/usr/bin/antimicrox --tray --hidden
+Restart=on-failure
+RestartSec=7
+
+[Install]
+WantedBy=default.target

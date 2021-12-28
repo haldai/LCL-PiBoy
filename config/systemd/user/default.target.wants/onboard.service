@@ -1,0 +1,10 @@
+[Unit]
+Description=Onboard guardian service
+
+[Service]
+ExecStart=/usr/bin/onboard
+Restart=on-failure
+RestartSec=11
+
+[Install]
+WantedBy=default.target
