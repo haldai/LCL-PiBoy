@@ -74,14 +74,14 @@ chmod +x setup.sh && ./setup.sh
 | L2     | -                 |                                            |
 | R2     | Super + j         | Toggle fullscreen                          |
 | Start  | Super + d         | Open main menu                             |
-| Select | Super + Shift + q | cloase window                              |
+| Select | Super + Shift + q | close window                              |
 
 Button combinations:
 
 | Joypad                | Keys               | Function                     |
 | --------------------- | ------------------ | ---------------------------- |
 | X + A                 | Super + Enter      | Open terminal                |
-| X + Dpad (left/right) | Super + Arror Keys | Move to different workspaces |
+| X + Dpad (left/right) | Super + Arrow Keys | Move to different workspaces |
 
 ### Package Managing
 
