@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=Connect Ethernet (USB)
+Comment=Connect Ethernet (USB)
+Exec=/home/alarm/.scripts/link_eth1.sh
+Icon=/usr/share/icons/Paper/24x24/devices/gnome-dev-ethernet.png
+Terminal=true
+Type=Application

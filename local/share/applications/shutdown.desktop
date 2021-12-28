@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=Shutdown
+Comment=Shutdown
+Exec=/home/alarm/.scripts/shutdown.sh
+Icon=/usr/share/icons/Paper/24x24@2x/actions/system-shutdown.png
+Terminal=true
+Type=Application

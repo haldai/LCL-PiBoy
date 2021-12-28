@@ -11,7 +11,7 @@ configuration {
   display-run: "#! ";
   display-drun: "";
   display-window: "";
-  display-combi: "請選擇";
+  display-combi: "Select (DPad)";
   show-icons: true;
 }
 
@@ -60,6 +60,7 @@ window {
   children:  [vertb, mainbox];
   orientation: horizontal;
   font: "SauceCodePro Nerd Font 12";
+  width: 480px;
 }
 
 mainbox {

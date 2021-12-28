@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=Connect WiFi
+Comment=Connect WiFi
+Exec=/home/alarm/.scripts/link_wifi.sh
+Icon=/usr/share/icons/Paper/24x24/devices/network-wireless.png
+Terminal=true
+Type=Application
