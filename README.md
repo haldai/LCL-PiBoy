@@ -20,7 +20,11 @@ Joypad mapping is done by [antimicroX](https://github.com/AntiMicroX/antimicrox)
 - `GB_awesome.gamecontroller.amgp`: Default mapping, works in desktop
 - `empty.gamecontroller.amgp`: Maps to nothing, works in retroarch, SteamLink and Moonlight (they have their own mapping methods).
 
-The on-screen keyboard is [onboard](https://launchpad.net/onboard).
+The on-screen keyboard is [onboard](https://launchpad.net/onboard). Use it with
+mouse (joystick and L/R button). Let's hope LCL can upgrade the LCD to a touch
+screen!
+
+Other useful packages installed ("optional" packages can be uninstalled freely).
 
 - 8188eu-dkms (WiFi driver)
 - dosbox-sdl2 (DOS emulator, optional)
