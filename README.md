@@ -117,3 +117,17 @@ For more usage of Arch Linux and AwesomeWM, please consult their official
 websites:
 - [AwesomeWM Documentation](https://awesomewm.org/doc/api/)
 - [Archwiki](https://wiki.archlinux.org/)
+
+## Issues
+
+### Screen tearing
+
+Screen may tear in games or firefox. To solve the problem, put
+`config/picom.conf` in `/home/alarm/.config/` and install
+[picom](https://wiki.archlinux.org/title/Picom) via
+
+``` shell
+yain picom
+```
+
+Then add a line `picom --config ~/.config/picom.conf` in `/home/alarm/.config/awesome/autostart.sh`.
