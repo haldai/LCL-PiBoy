@@ -32,6 +32,7 @@ Other useful packages installed ("optional" packages can be uninstalled freely).
 - otf-eb-garamond (Font, optional)
 - otf-vollkorn (Font, optional)
 - paper-icon-theme-git (Icon pack)
+- Pcmanfm (File manager, optional)
 - python-pysdl2 (SDL2 python wrapper)
 - retroarch-rbp-git (Emulator, optional)
 - rofi-bluetooth-git (Bluetooth controller)
